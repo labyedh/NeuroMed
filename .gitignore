@@ -1,2 +1,3 @@
 menv
 —system-site-packages/
+.env
